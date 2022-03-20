@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="OSGi_ServivceSubscriber_endCusRomane/OSGi_ServivceSubscriber_endCusRomane.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/OSGi_ServivceSubscriber_endCusRomane/OSGi_ServivceSubscriber_endCusRomane.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/ServicePublisher_owner_Romane/META-INF/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/OSGi_ServivceSubscriber_endCusRomane/.project"/>
+        <file path="/OSGi_ServivceSubscriber_endCusRomane/.classpath"/>
+        <folder path="/OSGi_ServivceSubscriber_endCusRomane/META-INF"/>
+        <javaElement handleIdentifier="=OSGi_ServivceSubscriber_endCusRomane/src"/>
+        <file path="/OSGi_ServivceSubscriber_endCusRomane/build.properties"/>
+    </selectedElements>
+</jardesc>
